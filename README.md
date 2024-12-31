@@ -1,4 +1,4 @@
-# merry-christmas
+# Yeni Yıl / Merry Christmas
 
 [TR]
 Yılbaşı Temalı Noel Ağaçları - Python Turtle
